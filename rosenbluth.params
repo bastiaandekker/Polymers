@@ -1,0 +1,8 @@
+250         Maximum number of beads
+400         Number of polymers starts
+6           Number of angles considered in rosenbluth algorithm
+0.25        Epsilon
+0.8         Sigma
+1.0         Temperature
+.true.      Should the PERM algorithm be used?
+.false.     Should the polymers be plotted?
